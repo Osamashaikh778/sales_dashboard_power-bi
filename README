@@ -1,0 +1,66 @@
+About the Sales Dashboard (Power BI)
+
+Overview
+
+This Sales Dashboard is a powerful visualization tool built using Power BI. It provides detailed insights into sales performance across multiple dimensions, including revenue, profit, unit costs, and product trends. The dashboard is interactive, allowing users to filter and drill down into specific data points for better analysis and decision-making.
+
+Key Features
+
+Metrics and KPIs:
+
+Total Amount: 18.54bn
+
+Total Revenue: 26.33bn
+
+Total Profit: 7.79bn
+
+Unit Cost: 3.72M
+
+Units Sold: 99M
+
+Unit Price: 5.28M
+
+Visualizations:
+
+Revenue Trend: Line chart illustrating annual revenue changes from 2014 to 2024.
+
+Revenue by Year: Bar chart showing year-on-year revenue performance.
+
+Top 5 Products: Analysis of leading products, including Household, Office Supplies, Cosmetics, Meat, and Baby Food.
+
+Filtering Options:
+
+Mode: Switch between "Offline" and "Online" sales modes.
+
+Country: Select specific regions or countries to analyze localized performance.
+
+Product Categories: Filter by product types such as Baby Food, Beverages, Cosmetics, and Vegetables.
+
+Design Highlights
+
+Modern Interface: Clean layout with visually distinct sections for quick navigation.
+
+Interactive Slicers: Dynamic filters for easy customization of data views.
+
+High Performance: Designed to handle large datasets efficiently in Power BI.
+
+Use Case
+
+This Power BI dashboard is ideal for:
+
+Sales Teams: Monitor overall sales performance and identify opportunities.
+
+Data Analysts: Explore trends and derive actionable insights.
+
+Executives: Make strategic decisions based on key performance indicators.
+
+Requirements
+
+Software: Power BI Desktop or Power BI Service.
+
+System: Compatible with Windows operating systems.
+
+Note
+
+This dashboard file can be shared and integrated with Power BI Service for collaborative reporting.
+
